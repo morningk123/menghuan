@@ -2,7 +2,6 @@
   "domainUrl":"",
   "updateUrl":"http://appdown.1016wan.com/menghuan_download/",
   "branches":[
-    
     {
       "code":"1007",
       "version":"1.0.7",
