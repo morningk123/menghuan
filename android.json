@@ -3,13 +3,13 @@
   "updateUrl":"http://appdown.1016wan.com/menghuan_download/",
   "branches":[
     {
-      "code":"1007",
-      "version":"1.0.7",
+      "code":"1009",
+      "version":"1.0.9",
       "status":"release"
     },
       {
-      "code":"1009",
-      "version":"1.0.9",
+      "code":"1010",
+      "version":"1.1.0",
       "status":"release"
     }
   ]
